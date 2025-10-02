@@ -43,12 +43,11 @@ Welcome to my GitHub! I’m passionate about building scalable full-stack web ap
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-c-7&theme=radical" alt="GitHub Streak" />
 </p>
 
----
 
 ## 📫 Let's Connect
 - Email: abhishekchoudharyorg@gmail.com
 
----
+
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
