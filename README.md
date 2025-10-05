@@ -52,3 +52,4 @@ Welcome to my GitHub! I’m passionate about building scalable full-stack web ap
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Thanks for visiting! Don’t forget to ⭐ some of my projects!
+.
